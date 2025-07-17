@@ -1,4 +1,4 @@
-# CompuWorth: Hardware–Price Regression for Laptop Valuation
+# WorthDESK: Hardware–Price Regression for Laptop Valuation
 
 ## Introduction
 This repository contains the analysis and machine learning model implementation for the laptop-pricing dataset. The goal is to predict various price of laptops having various attributes using different machine learning techniques.
@@ -15,15 +15,7 @@ This repository contains the analysis and machine learning model implementation 
 - **Programming Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook
-
-## Getting Started
-To get started with this project, clone the repository and install the necessary dependencies:
-```bash
-git clone https://github.com/burhanahmed1/LaptopPricing-MachineLearning-Analysis.git
-cd LaptopPricing-MachineLearning-Analysis
-pip install -r requirements.txt
-```
-
+  
 ## Usage
 Open the Jupyter notebook:
 ```bash
